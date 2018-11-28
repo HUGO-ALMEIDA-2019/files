@@ -1,2 +1,1 @@
-# http://hugoalmeida.github.io
-my site
+#  https://hugo-almeida-2019.github.io/
